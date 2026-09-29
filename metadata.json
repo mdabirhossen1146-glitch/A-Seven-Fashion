@@ -1,0 +1,6 @@
+{
+  "name": "A Seven Fashion",
+  "description": "A modern, professional fashion marketplace customer app for Bangladesh and international users.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
